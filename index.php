@@ -50,6 +50,8 @@
 
 
 
+<h2>Contact Form</h2>
+
     <form id="contacts" action="processForm.php" method="post">
         <label>Name</label>
         <input type="text" name="name" value="" required>

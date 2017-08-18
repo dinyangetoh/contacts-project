@@ -40,3 +40,7 @@ label {
 .primary {
     background: #337AB7;
 }
+
+form {
+    background: skyblue;
+}
